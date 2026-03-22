@@ -1,10 +1,6 @@
 // Initialize map
 var map = L.map('map').setView([40.7128, -74.0060], 12);
-
-// Add tiles
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19
-}).addTo(map);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19 }).addTo(map);
 
 var startSelect = document.getElementById("start");
 var endSelect = document.getElementById("end");
@@ -14,22 +10,23 @@ var stations = [];
 var connections = [];
 var routeLine;
 
-// Fetch stations
+var allMarkers = []; // store markers with station type
+
+// Load stations
 fetch("stations.json")
   .then(res => res.json())
   .then(data => {
       stations = data;
 
-      // Add markers & dropdown options
       stations.forEach(station => {
           var marker = L.circleMarker([station.lat, station.lon], {
-              radius: 5,
+              radius: 4,
               color: 'blue',
               fillColor: 'blue',
               fillOpacity: 0.7
           }).bindTooltip(station.name, {permanent:false, direction:'top'});
 
-          markers.addLayer(marker);
+          allMarkers.push({marker: marker, type: station.type});
 
           // Add to dropdowns
           [startSelect, endSelect].forEach(select => {
@@ -40,37 +37,55 @@ fetch("stations.json")
           });
       });
 
-      map.addLayer(markers);
+      updateMarkers(); // show markers initially
   });
 
-// Fetch connections
+// Load connections
 fetch("connections.json")
   .then(res => res.json())
   .then(data => { connections = data; });
 
-// Simple Dijkstra algorithm in JS
+// Zoom-dependent visibility
+function updateMarkers() {
+    var zoom = map.getZoom();
+
+    allMarkers.forEach(obj => {
+        if (zoom < 14) {
+            // low zoom: only show express stops
+            if (obj.type === "express") {
+                if (!map.hasLayer(obj.marker)) map.addLayer(obj.marker);
+            } else {
+                if (map.hasLayer(obj.marker)) map.removeLayer(obj.marker);
+            }
+        } else {
+            // zoom >= 14: show all stations
+            if (!map.hasLayer(obj.marker)) map.addLayer(obj.marker);
+        }
+    });
+}
+
+// Update markers on zoom
+map.on('zoomend', updateMarkers);
+
+// Simple BFS for shortest path
 function findShortestPath(start, end) {
-    // Build adjacency list
     const graph = {};
     stations.forEach(s => graph[s.name] = []);
     connections.forEach(c => {
         graph[c.from].push(c.to);
-        graph[c.to].push(c.from); // undirected
+        graph[c.to].push(c.from);
     });
 
-    // BFS for shortest path (unweighted)
     const queue = [[start]];
     const visited = new Set();
 
-    while(queue.length > 0){
+    while(queue.length > 0) {
         const path = queue.shift();
         const node = path[path.length-1];
         if(node === end) return path;
         if(visited.has(node)) continue;
         visited.add(node);
-        for(const neighbor of graph[node]){
-            queue.push([...path, neighbor]);
-        }
+        for(const neighbor of graph[node]) queue.push([...path, neighbor]);
     }
     return null;
 }
@@ -90,7 +105,6 @@ drawBtn.addEventListener("click", () => {
     });
 
     if(routeLine) map.removeLayer(routeLine);
-
     routeLine = L.polyline(coords, {color:'red', weight:5}).addTo(map);
     map.fitBounds(routeLine.getBounds());
 });

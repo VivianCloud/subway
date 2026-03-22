@@ -1,0 +1,2174 @@
+[
+  {
+    "from": "51 St",
+    "to": "59 St"
+  },
+  {
+    "from": "7 Av",
+    "to": "Prospect Park"
+  },
+  {
+    "from": "75 St-Elderts Ln",
+    "to": "Cypress Hills"
+  },
+  {
+    "from": "25 Av",
+    "to": "Bay Pkwy"
+  },
+  {
+    "from": "25 St",
+    "to": "Prospect Av"
+  },
+  {
+    "from": "30 Av",
+    "to": "Astoria Blvd"
+  },
+  {
+    "from": "Parkchester",
+    "to": "St Lawrence Av"
+  },
+  {
+    "from": "34 St-Penn Station",
+    "to": "42 St-Port Authority Bus Terminal"
+  },
+  {
+    "from": "3 Av-138 St",
+    "to": "Brook Av"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "Brooklyn Bridge-City Hall"
+  },
+  {
+    "from": "Liberty Av",
+    "to": "Van Siclen Av"
+  },
+  {
+    "from": "63 Dr-Rego Park",
+    "to": "67 Av"
+  },
+  {
+    "from": "Bay Terrace",
+    "to": "Great Kills"
+  },
+  {
+    "from": "46 St-Bliss St",
+    "to": "52 St"
+  },
+  {
+    "from": "Court Sq",
+    "to": "Hunters Point Av"
+  },
+  {
+    "from": "Hoyt-Schermerhorn Sts",
+    "to": "Jay St-MetroTech"
+  },
+  {
+    "from": "Borough Hall",
+    "to": "Nevins St"
+  },
+  {
+    "from": "23 St",
+    "to": "34 St-Penn Station"
+  },
+  {
+    "from": "62 St",
+    "to": "Bay Pkwy"
+  },
+  {
+    "from": "Bowery",
+    "to": "Delancey St-Essex St"
+  },
+  {
+    "from": "40 St-Lowery St",
+    "to": "46 St-Bliss St"
+  },
+  {
+    "from": "Bowling Green",
+    "to": "Wall St"
+  },
+  {
+    "from": "Beverley Rd",
+    "to": "Church Av"
+  },
+  {
+    "from": "Broadway Junction",
+    "to": "Liberty Av"
+  },
+  {
+    "from": "3 Av-138 St",
+    "to": "Hunts Point Av"
+  },
+  {
+    "from": "149 St-Grand Concourse",
+    "to": "3 Av-149 St"
+  },
+  {
+    "from": "225 St",
+    "to": "233 St"
+  },
+  {
+    "from": "4 Av-9 St",
+    "to": "Prospect Av"
+  },
+  {
+    "from": "167 St",
+    "to": "170 St"
+  },
+  {
+    "from": "Classon Av",
+    "to": "Clinton-Washington Avs"
+  },
+  {
+    "from": "Beverley Rd",
+    "to": "Cortelyou Rd"
+  },
+  {
+    "from": "Lexington Av/63 St",
+    "to": "Roosevelt Island"
+  },
+  {
+    "from": "46 St-Bliss St",
+    "to": "61 St-Woodside"
+  },
+  {
+    "from": "111 St",
+    "to": "121 St"
+  },
+  {
+    "from": "135 St",
+    "to": "145 St"
+  },
+  {
+    "from": "Hoyt-Schermerhorn Sts",
+    "to": "Nostrand Av"
+  },
+  {
+    "from": "Avenue H",
+    "to": "Avenue J"
+  },
+  {
+    "from": "Kings Hwy",
+    "to": "Newkirk Plaza"
+  },
+  {
+    "from": "88 St",
+    "to": "Rockaway Blvd"
+  },
+  {
+    "from": "3 Av-149 St",
+    "to": "E 180 St"
+  },
+  {
+    "from": "18 Av",
+    "to": "New Utrecht Av"
+  },
+  {
+    "from": "21 St-Queensbridge",
+    "to": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "from": "Beach 25 St",
+    "to": "Beach 36 St"
+  },
+  {
+    "from": "65 St",
+    "to": "Northern Blvd"
+  },
+  {
+    "from": "21 St",
+    "to": "Court Sq"
+  },
+  {
+    "from": "Euclid Av",
+    "to": "Shepherd Av"
+  },
+  {
+    "from": "Clifton",
+    "to": "Grasmere"
+  },
+  {
+    "from": "5 Av",
+    "to": "Grand Central-42 St"
+  },
+  {
+    "from": "23 St",
+    "to": "34 St-Herald Sq"
+  },
+  {
+    "from": "Bronx Park East",
+    "to": "Pelham Pkwy"
+  },
+  {
+    "from": "Buhre Av",
+    "to": "Middletown Rd"
+  },
+  {
+    "from": "72 St",
+    "to": "96 St"
+  },
+  {
+    "from": "Arthur Kill",
+    "to": "Richmond Valley"
+  },
+  {
+    "from": "50 St",
+    "to": "59 St-Columbus Circle"
+  },
+  {
+    "from": "Forest Av",
+    "to": "Fresh Pond Rd"
+  },
+  {
+    "from": "Lexington Av/59 St",
+    "to": "Queensboro Plaza"
+  },
+  {
+    "from": "Alabama Av",
+    "to": "Van Siclen Av"
+  },
+  {
+    "from": "75 St-Elderts Ln",
+    "to": "Woodhaven Blvd"
+  },
+  {
+    "from": "4 Av-9 St",
+    "to": "Union St"
+  },
+  {
+    "from": "Halsey St",
+    "to": "Myrtle-Wyckoff Avs"
+  },
+  {
+    "from": "Metropolitan Av",
+    "to": "Nassau Av"
+  },
+  {
+    "from": "Montrose Av",
+    "to": "Morgan Av"
+  },
+  {
+    "from": "14 St",
+    "to": "W 4 St-Wash Sq"
+  },
+  {
+    "from": "125 St",
+    "to": "3 Av-138 St"
+  },
+  {
+    "from": "Arthur Kill",
+    "to": "Tottenville"
+  },
+  {
+    "from": "Borough Hall",
+    "to": "Hoyt St"
+  },
+  {
+    "from": "Chambers St",
+    "to": "WTC Cortlandt"
+  },
+  {
+    "from": "1 Av",
+    "to": "3 Av"
+  },
+  {
+    "from": "61 St-Woodside",
+    "to": "69 St"
+  },
+  {
+    "from": "Central Av",
+    "to": "Myrtle Av"
+  },
+  {
+    "from": "Nereid Av",
+    "to": "Wakefield-241 St"
+  },
+  {
+    "from": "7 Av",
+    "to": "Jay St-MetroTech"
+  },
+  {
+    "from": "74 St-Broadway",
+    "to": "Junction Blvd"
+  },
+  {
+    "from": "104 St",
+    "to": "Woodhaven Blvd"
+  },
+  {
+    "from": "81 St-Museum of Natural History",
+    "to": "86 St"
+  },
+  {
+    "from": "Atlantic Av-Barclays Ctr",
+    "to": "DeKalb Av"
+  },
+  {
+    "from": "65 St",
+    "to": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "from": "Bedford Av",
+    "to": "Lorimer St"
+  },
+  {
+    "from": "Cypress Av",
+    "to": "E 143 St-St Mary's St"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "3 Av"
+  },
+  {
+    "from": "Fordham Rd",
+    "to": "Kingsbridge Rd"
+  },
+  {
+    "from": "Broad St",
+    "to": "Fulton St"
+  },
+  {
+    "from": "Junius St",
+    "to": "Pennsylvania Av"
+  },
+  {
+    "from": "Court St",
+    "to": "Jay St-MetroTech"
+  },
+  {
+    "from": "Beach 36 St",
+    "to": "Beach 44 St"
+  },
+  {
+    "from": "125 St",
+    "to": "135 St"
+  },
+  {
+    "from": "5 Av",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "75 Av",
+    "to": "Forest Hills-71 Av"
+  },
+  {
+    "from": "79 St",
+    "to": "86 St"
+  },
+  {
+    "from": "103 St-Corona Plaza",
+    "to": "Junction Blvd"
+  },
+  {
+    "from": "DeKalb Av",
+    "to": "Grand St"
+  },
+  {
+    "from": "75 St-Elderts Ln",
+    "to": "85 St-Forest Pkwy"
+  },
+  {
+    "from": "St George",
+    "to": "Tompkinsville"
+  },
+  {
+    "from": "155 St",
+    "to": "161 St-Yankee Stadium"
+  },
+  {
+    "from": "Avenue N",
+    "to": "Avenue P"
+  },
+  {
+    "from": "Shepherd Av",
+    "to": "Van Siclen Av"
+  },
+  {
+    "from": "Avenue I",
+    "to": "Bay Pkwy"
+  },
+  {
+    "from": "Franklin Av",
+    "to": "Nostrand Av"
+  },
+  {
+    "from": "18 Av",
+    "to": "Avenue I"
+  },
+  {
+    "from": "Jamaica-Van Wyck",
+    "to": "Sutphin Blvd-Archer Av-JFK Airport"
+  },
+  {
+    "from": "New Lots Av",
+    "to": "Van Siclen Av"
+  },
+  {
+    "from": "Avenue J",
+    "to": "Avenue M"
+  },
+  {
+    "from": "75 St-Elderts Ln",
+    "to": "Crescent St"
+  },
+  {
+    "from": "Canal St",
+    "to": "Chambers St"
+  },
+  {
+    "from": "Elder Av",
+    "to": "Whitlock Av"
+  },
+  {
+    "from": "15 St-Prospect Park",
+    "to": "7 Av"
+  },
+  {
+    "from": "Beach 105 St",
+    "to": "Beach 98 St"
+  },
+  {
+    "from": "Astor Pl",
+    "to": "Bleecker St"
+  },
+  {
+    "from": "61 St-Woodside",
+    "to": "Junction Blvd"
+  },
+  {
+    "from": "Atlantic Av-Barclays Ctr",
+    "to": "Grand St"
+  },
+  {
+    "from": "Forest Av",
+    "to": "Seneca Av"
+  },
+  {
+    "from": "170 St",
+    "to": "174-175 Sts"
+  },
+  {
+    "from": "4 Av-9 St",
+    "to": "Smith-9 Sts"
+  },
+  {
+    "from": "Cleveland St",
+    "to": "Norwood Av"
+  },
+  {
+    "from": "2 Av",
+    "to": "Delancey St-Essex St"
+  },
+  {
+    "from": "116 St",
+    "to": "125 St"
+  },
+  {
+    "from": "Church Av",
+    "to": "Ditmas Av"
+  },
+  {
+    "from": "181 St",
+    "to": "191 St"
+  },
+  {
+    "from": "Bergen St",
+    "to": "Jay St-MetroTech"
+  },
+  {
+    "from": "Kingston Av",
+    "to": "Nostrand Av"
+  },
+  {
+    "from": "Canal St",
+    "to": "Spring St"
+  },
+  {
+    "from": "Pleasant Plains",
+    "to": "Richmond Valley"
+  },
+  {
+    "from": "Canal St",
+    "to": "Prince St"
+  },
+  {
+    "from": "45 St",
+    "to": "53 St"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "6 Av"
+  },
+  {
+    "from": "Carroll St",
+    "to": "Smith-9 Sts"
+  },
+  {
+    "from": "59 St",
+    "to": "Bay Ridge Av"
+  },
+  {
+    "from": "Crown Hts-Utica Av",
+    "to": "Kingston Av"
+  },
+  {
+    "from": "86 St",
+    "to": "Coney Island-Stillwell Av"
+  },
+  {
+    "from": "39 Av-Dutch Kills",
+    "to": "Queensboro Plaza"
+  },
+  {
+    "from": "5 Av/59 St",
+    "to": "57 St-7 Av"
+  },
+  {
+    "from": "Borough Hall",
+    "to": "Clark St"
+  },
+  {
+    "from": "Crown Hts-Utica Av",
+    "to": "Sutter Av-Rutland Rd"
+  },
+  {
+    "from": "61 St-Woodside",
+    "to": "74 St-Broadway"
+  },
+  {
+    "from": "Myrtle-Wyckoff Avs",
+    "to": "Seneca Av"
+  },
+  {
+    "from": "53 St",
+    "to": "59 St"
+  },
+  {
+    "from": "Atlantic Av",
+    "to": "Sutter Av"
+  },
+  {
+    "from": "Fulton St",
+    "to": "Park Place"
+  },
+  {
+    "from": "Avenue X",
+    "to": "Neptune Av"
+  },
+  {
+    "from": "36 Av",
+    "to": "39 Av-Dutch Kills"
+  },
+  {
+    "from": "125 St",
+    "to": "59 St-Columbus Circle"
+  },
+  {
+    "from": "103 St",
+    "to": "110 St"
+  },
+  {
+    "from": "Delancey St-Essex St",
+    "to": "Marcy Av"
+  },
+  {
+    "from": "Broadway Junction",
+    "to": "Euclid Av"
+  },
+  {
+    "from": "Grant City",
+    "to": "New Dorp"
+  },
+  {
+    "from": "Rockaway Av",
+    "to": "Saratoga Av"
+  },
+  {
+    "from": "33 St-Rawson St",
+    "to": "40 St-Lowery St"
+  },
+  {
+    "from": "Elder Av",
+    "to": "Morrison Av-Soundview"
+  },
+  {
+    "from": "111 St",
+    "to": "Mets-Willets Point"
+  },
+  {
+    "from": "Grand Central-42 St",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "Chauncey St",
+    "to": "Halsey St"
+  },
+  {
+    "from": "Bergen St",
+    "to": "Grand Army Plaza"
+  },
+  {
+    "from": "Canal St",
+    "to": "Houston St"
+  },
+  {
+    "from": "145 St",
+    "to": "168 St"
+  },
+  {
+    "from": "Crescent St",
+    "to": "Cypress Hills"
+  },
+  {
+    "from": "176 St",
+    "to": "Burnside Av"
+  },
+  {
+    "from": "168 St",
+    "to": "175 St"
+  },
+  {
+    "from": "E 149 St",
+    "to": "Longwood Av"
+  },
+  {
+    "from": "231 St",
+    "to": "238 St"
+  },
+  {
+    "from": "80 St",
+    "to": "Grant Av"
+  },
+  {
+    "from": "47-50 Sts-Rockefeller Ctr",
+    "to": "7 Av"
+  },
+  {
+    "from": "34 St-Herald Sq",
+    "to": "W 4 St-Wash Sq"
+  },
+  {
+    "from": "Jefferson St",
+    "to": "Morgan Av"
+  },
+  {
+    "from": "Canarsie-Rockaway Pkwy",
+    "to": "East 105 St"
+  },
+  {
+    "from": "Alabama Av",
+    "to": "Cleveland St"
+  },
+  {
+    "from": "Grant City",
+    "to": "Jefferson Av"
+  },
+  {
+    "from": "Church Av",
+    "to": "Newkirk Plaza"
+  },
+  {
+    "from": "18 Av",
+    "to": "Ditmas Av"
+  },
+  {
+    "from": "Parsons Blvd",
+    "to": "Sutphin Blvd"
+  },
+  {
+    "from": "219 St",
+    "to": "Gun Hill Rd"
+  },
+  {
+    "from": "62 St",
+    "to": "9 Av"
+  },
+  {
+    "from": "104 St",
+    "to": "121 St"
+  },
+  {
+    "from": "Sterling St",
+    "to": "Winthrop St"
+  },
+  {
+    "from": "138 St-Grand Concourse",
+    "to": "149 St-Grand Concourse"
+  },
+  {
+    "from": "Bedford-Nostrand Avs",
+    "to": "Classon Av"
+  },
+  {
+    "from": "Graham Av",
+    "to": "Grand St"
+  },
+  {
+    "from": "Flushing Av",
+    "to": "Lorimer St"
+  },
+  {
+    "from": "East Broadway",
+    "to": "York St"
+  },
+  {
+    "from": "Atlantic Av-Barclays Ctr",
+    "to": "Nevins St"
+  },
+  {
+    "from": "Canal St",
+    "to": "City Hall"
+  },
+  {
+    "from": "Freeman St",
+    "to": "Simpson St"
+  },
+  {
+    "from": "Franklin Av-Medgar Evers College",
+    "to": "President St-Medgar Evers College"
+  },
+  {
+    "from": "Chambers St",
+    "to": "Park Place"
+  },
+  {
+    "from": "Bedford Park Blvd-Lehman College",
+    "to": "Mosholu Pkwy"
+  },
+  {
+    "from": "59 St-Columbus Circle",
+    "to": "66 St-Lincoln Center"
+  },
+  {
+    "from": "23 St",
+    "to": "28 St"
+  },
+  {
+    "from": "E 180 St",
+    "to": "Gun Hill Rd"
+  },
+  {
+    "from": "Junction Blvd",
+    "to": "Mets-Willets Point"
+  },
+  {
+    "from": "86 St",
+    "to": "96 St"
+  },
+  {
+    "from": "Junius St",
+    "to": "Rockaway Av"
+  },
+  {
+    "from": "Buhre Av",
+    "to": "Pelham Bay Park"
+  },
+  {
+    "from": "182-183 Sts",
+    "to": "Fordham Rd"
+  },
+  {
+    "from": "169 St",
+    "to": "Parsons Blvd"
+  },
+  {
+    "from": "50 St",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "36 St",
+    "to": "59 St"
+  },
+  {
+    "from": "175 St",
+    "to": "181 St"
+  },
+  {
+    "from": "145 St",
+    "to": "157 St"
+  },
+  {
+    "from": "Grand Av-Newtown",
+    "to": "Woodhaven Blvd"
+  },
+  {
+    "from": "Broadway-Lafayette St",
+    "to": "Delancey St-Essex St"
+  },
+  {
+    "from": "Fulton St",
+    "to": "Hoyt-Schermerhorn Sts"
+  },
+  {
+    "from": "59 St",
+    "to": "8 Av"
+  },
+  {
+    "from": "Bay 50 St",
+    "to": "Coney Island-Stillwell Av"
+  },
+  {
+    "from": "Forest Hills-71 Av",
+    "to": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "from": "46 St",
+    "to": "Steinway St"
+  },
+  {
+    "from": "Christopher St-Stonewall",
+    "to": "Houston St"
+  },
+  {
+    "from": "Brighton Beach",
+    "to": "Sheepshead Bay"
+  },
+  {
+    "from": "Livonia Av",
+    "to": "Sutter Av"
+  },
+  {
+    "from": "Baychester Av",
+    "to": "Eastchester-Dyre Av"
+  },
+  {
+    "from": "51 St",
+    "to": "Grand Central-42 St"
+  },
+  {
+    "from": "Flushing Av",
+    "to": "Myrtle-Willoughby Avs"
+  },
+  {
+    "from": "Grasmere",
+    "to": "Old Town"
+  },
+  {
+    "from": "Norwood Av",
+    "to": "Van Siclen Av"
+  },
+  {
+    "from": "182-183 Sts",
+    "to": "Tremont Av"
+  },
+  {
+    "from": "Bedford Park Blvd-Lehman College",
+    "to": "Kingsbridge Rd"
+  },
+  {
+    "from": "Beach 90 St",
+    "to": "Beach 98 St"
+  },
+  {
+    "from": "155 St",
+    "to": "163 St-Amsterdam Av"
+  },
+  {
+    "from": "Canal St",
+    "to": "World Trade Center"
+  },
+  {
+    "from": "42 St-Port Authority Bus Terminal",
+    "to": "59 St-Columbus Circle"
+  },
+  {
+    "from": "Broadway",
+    "to": "Metropolitan Av"
+  },
+  {
+    "from": "47-50 Sts-Rockefeller Ctr",
+    "to": "5 Av/53 St"
+  },
+  {
+    "from": "Aqueduct Racetrack",
+    "to": "Rockaway Blvd"
+  },
+  {
+    "from": "Church Av",
+    "to": "Winthrop St"
+  },
+  {
+    "from": "Morris Park",
+    "to": "Pelham Pkwy"
+  },
+  {
+    "from": "1 Av",
+    "to": "Bedford Av"
+  },
+  {
+    "from": "Broadway-Lafayette St",
+    "to": "W 4 St-Wash Sq"
+  },
+  {
+    "from": "E 180 St",
+    "to": "Morris Park"
+  },
+  {
+    "from": "Beach 44 St",
+    "to": "Beach 60 St"
+  },
+  {
+    "from": "New Dorp",
+    "to": "Oakwood Heights"
+  },
+  {
+    "from": "Beach 105 St",
+    "to": "Rockaway Park-Beach 116 St"
+  },
+  {
+    "from": "Ralph Av",
+    "to": "Utica Av"
+  },
+  {
+    "from": "Fordham Rd",
+    "to": "Tremont Av"
+  },
+  {
+    "from": "Alabama Av",
+    "to": "Broadway Junction"
+  },
+  {
+    "from": "Franklin Av",
+    "to": "Park Pl"
+  },
+  {
+    "from": "28 St",
+    "to": "34 St-Penn Station"
+  },
+  {
+    "from": "Spring St",
+    "to": "W 4 St-Wash Sq"
+  },
+  {
+    "from": "Brook Av",
+    "to": "Cypress Av"
+  },
+  {
+    "from": "34 St-Herald Sq",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "157 St",
+    "to": "168 St-Washington Hts"
+  },
+  {
+    "from": "161 St-Yankee Stadium",
+    "to": "167 St"
+  },
+  {
+    "from": "Annadale",
+    "to": "Eltingville"
+  },
+  {
+    "from": "121 St",
+    "to": "Sutphin Blvd-Archer Av-JFK Airport"
+  },
+  {
+    "from": "Pennsylvania Av",
+    "to": "Van Siclen Av"
+  },
+  {
+    "from": "Gun Hill Rd",
+    "to": "Pelham Pkwy"
+  },
+  {
+    "from": "Coney Island-Stillwell Av",
+    "to": "W 8 St-NY Aquarium"
+  },
+  {
+    "from": "59 St",
+    "to": "Grand Central-42 St"
+  },
+  {
+    "from": "Elmhurst Av",
+    "to": "Grand Av-Newtown"
+  },
+  {
+    "from": "55 St",
+    "to": "62 St"
+  },
+  {
+    "from": "Brighton Beach",
+    "to": "Ocean Pkwy"
+  },
+  {
+    "from": "169 St",
+    "to": "Jamaica-179 St"
+  },
+  {
+    "from": "77 St",
+    "to": "86 St"
+  },
+  {
+    "from": "Flushing Av",
+    "to": "Myrtle Av"
+  },
+  {
+    "from": "52 St",
+    "to": "61 St-Woodside"
+  },
+  {
+    "from": "Rector St",
+    "to": "WTC Cortlandt"
+  },
+  {
+    "from": "125 St",
+    "to": "138 St-Grand Concourse"
+  },
+  {
+    "from": "Aqueduct-N Conduit Av",
+    "to": "Rockaway Blvd"
+  },
+  {
+    "from": "25 Av",
+    "to": "Bay 50 St"
+  },
+  {
+    "from": "103 St-Corona Plaza",
+    "to": "111 St"
+  },
+  {
+    "from": "Hunts Point Av",
+    "to": "Whitlock Av"
+  },
+  {
+    "from": "Cortlandt St",
+    "to": "Rector St"
+  },
+  {
+    "from": "Gates Av",
+    "to": "Kosciuszko St"
+  },
+  {
+    "from": "23 St-Baruch College",
+    "to": "28 St"
+  },
+  {
+    "from": "Bleecker St",
+    "to": "Spring St"
+  },
+  {
+    "from": "Hunts Point Av",
+    "to": "Parkchester"
+  },
+  {
+    "from": "Eastern Pkwy-Brooklyn Museum",
+    "to": "Franklin Av-Medgar Evers College"
+  },
+  {
+    "from": "7 Av",
+    "to": "Atlantic Av-Barclays Ctr"
+  },
+  {
+    "from": "36 Av",
+    "to": "Broadway"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "34 St-Herald Sq"
+  },
+  {
+    "from": "59 St",
+    "to": "68 St-Hunter College"
+  },
+  {
+    "from": "Chambers St",
+    "to": "Fulton St"
+  },
+  {
+    "from": "28 St",
+    "to": "34 St-Herald Sq"
+  },
+  {
+    "from": "85 St-Forest Pkwy",
+    "to": "Cypress Hills"
+  },
+  {
+    "from": "Aqueduct-N Conduit Av",
+    "to": "Howard Beach-JFK Airport"
+  },
+  {
+    "from": "21 St-Queensbridge",
+    "to": "36 St"
+  },
+  {
+    "from": "Broad Channel",
+    "to": "Howard Beach-JFK Airport"
+  },
+  {
+    "from": "Astoria Blvd",
+    "to": "Astoria-Ditmars Blvd"
+  },
+  {
+    "from": "Avenue H",
+    "to": "Newkirk Plaza"
+  },
+  {
+    "from": "Flatbush Av-Brooklyn College",
+    "to": "Newkirk Av-Little Haiti"
+  },
+  {
+    "from": "Clinton-Washington Avs",
+    "to": "Franklin Av"
+  },
+  {
+    "from": "3 Av-149 St",
+    "to": "Jackson Av"
+  },
+  {
+    "from": "50 St",
+    "to": "7 Av"
+  },
+  {
+    "from": "Intervale Av",
+    "to": "Simpson St"
+  },
+  {
+    "from": "207 St",
+    "to": "215 St"
+  },
+  {
+    "from": "149 St-Grand Concourse",
+    "to": "161 St-Yankee Stadium"
+  },
+  {
+    "from": "Castle Hill Av",
+    "to": "Zerega Av"
+  },
+  {
+    "from": "110 St-Malcolm X Plaza",
+    "to": "96 St"
+  },
+  {
+    "from": "Borough Hall",
+    "to": "Bowling Green"
+  },
+  {
+    "from": "Kosciuszko St",
+    "to": "Myrtle Av"
+  },
+  {
+    "from": "Hoyt St",
+    "to": "Nevins St"
+  },
+  {
+    "from": "East 105 St",
+    "to": "New Lots Av"
+  },
+  {
+    "from": "2 Av",
+    "to": "Broadway-Lafayette St"
+  },
+  {
+    "from": "Hunters Point Av",
+    "to": "Vernon Blvd-Jackson Av"
+  },
+  {
+    "from": "Atlantic Av",
+    "to": "Broadway Junction"
+  },
+  {
+    "from": "Neptune Av",
+    "to": "W 8 St-NY Aquarium"
+  },
+  {
+    "from": "137 St-City College",
+    "to": "145 St"
+  },
+  {
+    "from": "President St-Medgar Evers College",
+    "to": "Sterling St"
+  },
+  {
+    "from": "30 Av",
+    "to": "Broadway"
+  },
+  {
+    "from": "135 St",
+    "to": "149 St-Grand Concourse"
+  },
+  {
+    "from": "Briarwood",
+    "to": "Sutphin Blvd"
+  },
+  {
+    "from": "21 St",
+    "to": "Greenpoint Av"
+  },
+  {
+    "from": "116 St-Columbia University",
+    "to": "Cathedral Pkwy (110 St)"
+  },
+  {
+    "from": "Aqueduct Racetrack",
+    "to": "Aqueduct-N Conduit Av"
+  },
+  {
+    "from": "8 St-NYU",
+    "to": "Prince St"
+  },
+  {
+    "from": "104 St",
+    "to": "Rockaway Blvd"
+  },
+  {
+    "from": "Nostrand Av",
+    "to": "Utica Av"
+  },
+  {
+    "from": "63 Dr-Rego Park",
+    "to": "Woodhaven Blvd"
+  },
+  {
+    "from": "28 St",
+    "to": "33 St"
+  },
+  {
+    "from": "219 St",
+    "to": "225 St"
+  },
+  {
+    "from": "Bay Pkwy",
+    "to": "Kings Hwy"
+  },
+  {
+    "from": "Broadway Junction",
+    "to": "Chauncey St"
+  },
+  {
+    "from": "Court Sq-23 St",
+    "to": "Queens Plaza"
+  },
+  {
+    "from": "74 St-Broadway",
+    "to": "82 St-Jackson Hts"
+  },
+  {
+    "from": "Eastern Pkwy-Brooklyn Museum",
+    "to": "Grand Army Plaza"
+  },
+  {
+    "from": "21 St-Queensbridge",
+    "to": "Roosevelt Island"
+  },
+  {
+    "from": "215 St",
+    "to": "Marble Hill-225 St"
+  },
+  {
+    "from": "Clinton-Washington Avs",
+    "to": "Lafayette Av"
+  },
+  {
+    "from": "86 St",
+    "to": "Avenue U"
+  },
+  {
+    "from": "Jamaica-Van Wyck",
+    "to": "Kew Gardens-Union Tpke"
+  },
+  {
+    "from": "Allerton Av",
+    "to": "Pelham Pkwy"
+  },
+  {
+    "from": "14 St",
+    "to": "18 St"
+  },
+  {
+    "from": "City Hall",
+    "to": "Cortlandt St"
+  },
+  {
+    "from": "Court Sq",
+    "to": "Queensboro Plaza"
+  },
+  {
+    "from": "Beverly Rd",
+    "to": "Newkirk Av-Little Haiti"
+  },
+  {
+    "from": "Atlantic Av-Barclays Ctr",
+    "to": "Bergen St"
+  },
+  {
+    "from": "174 St",
+    "to": "West Farms Sq-E Tremont Av"
+  },
+  {
+    "from": "231 St",
+    "to": "Marble Hill-225 St"
+  },
+  {
+    "from": "59 St-Columbus Circle",
+    "to": "72 St"
+  },
+  {
+    "from": "Chambers St",
+    "to": "Franklin St"
+  },
+  {
+    "from": "Fort Hamilton Pkwy",
+    "to": "New Utrecht Av"
+  },
+  {
+    "from": "145 St",
+    "to": "Tremont Av"
+  },
+  {
+    "from": "Ralph Av",
+    "to": "Rockaway Av"
+  },
+  {
+    "from": "15 St-Prospect Park",
+    "to": "Fort Hamilton Pkwy"
+  },
+  {
+    "from": "Greenpoint Av",
+    "to": "Nassau Av"
+  },
+  {
+    "from": "Neck Rd",
+    "to": "Sheepshead Bay"
+  },
+  {
+    "from": "Bergen St",
+    "to": "Hoyt-Schermerhorn Sts"
+  },
+  {
+    "from": "7 Av",
+    "to": "Church Av"
+  },
+  {
+    "from": "Delancey St-Essex St",
+    "to": "East Broadway"
+  },
+  {
+    "from": "111 St",
+    "to": "Sutphin Blvd-Archer Av-JFK Airport"
+  },
+  {
+    "from": "14 St",
+    "to": "Christopher St-Stonewall"
+  },
+  {
+    "from": "85 St-Forest Pkwy",
+    "to": "Woodhaven Blvd"
+  },
+  {
+    "from": "Elmhurst Av",
+    "to": "Jackson Hts-Roosevelt Av"
+  },
+  {
+    "from": "Burke Av",
+    "to": "Gun Hill Rd"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "Grand Central-42 St"
+  },
+  {
+    "from": "176 St",
+    "to": "Mt Eden Av"
+  },
+  {
+    "from": "Livonia Av",
+    "to": "New Lots Av"
+  },
+  {
+    "from": "Dongan Hills",
+    "to": "Jefferson Av"
+  },
+  {
+    "from": "Court St",
+    "to": "Whitehall St-South Ferry"
+  },
+  {
+    "from": "42 St-Port Authority Bus Terminal",
+    "to": "50 St"
+  },
+  {
+    "from": "Broadway",
+    "to": "Flushing Av"
+  },
+  {
+    "from": "Allerton Av",
+    "to": "Burke Av"
+  },
+  {
+    "from": "Hewes St",
+    "to": "Lorimer St"
+  },
+  {
+    "from": "34 St-Herald Sq",
+    "to": "42 St-Bryant Pk"
+  },
+  {
+    "from": "18 Av",
+    "to": "79 St"
+  },
+  {
+    "from": "Central Av",
+    "to": "Knickerbocker Av"
+  },
+  {
+    "from": "Brooklyn Bridge-City Hall",
+    "to": "Fulton St"
+  },
+  {
+    "from": "Beach 25 St",
+    "to": "Far Rockaway-Mott Av"
+  },
+  {
+    "from": "Avenue N",
+    "to": "Bay Pkwy"
+  },
+  {
+    "from": "Bergen St",
+    "to": "Carroll St"
+  },
+  {
+    "from": "Marcy Av",
+    "to": "Myrtle Av"
+  },
+  {
+    "from": "72 St",
+    "to": "79 St"
+  },
+  {
+    "from": "Hunts Point Av",
+    "to": "Longwood Av"
+  },
+  {
+    "from": "145 St",
+    "to": "155 St"
+  },
+  {
+    "from": "36 St",
+    "to": "Steinway St"
+  },
+  {
+    "from": "Atlantic Av-Barclays Ctr",
+    "to": "Union St"
+  },
+  {
+    "from": "181 St",
+    "to": "190 St"
+  },
+  {
+    "from": "Hewes St",
+    "to": "Marcy Av"
+  },
+  {
+    "from": "47-50 Sts-Rockefeller Ctr",
+    "to": "57 St"
+  },
+  {
+    "from": "Kew Gardens-Union Tpke",
+    "to": "Parsons Blvd"
+  },
+  {
+    "from": "Ocean Pkwy",
+    "to": "W 8 St-NY Aquarium"
+  },
+  {
+    "from": "Lexington Av/59 St",
+    "to": "Queens Plaza"
+  },
+  {
+    "from": "Morrison Av-Soundview",
+    "to": "St Lawrence Av"
+  },
+  {
+    "from": "Clark St",
+    "to": "Wall St"
+  },
+  {
+    "from": "Church Av",
+    "to": "Parkside Av"
+  },
+  {
+    "from": "Fresh Pond Rd",
+    "to": "Middle Village-Metropolitan Av"
+  },
+  {
+    "from": "Bowery",
+    "to": "Canal St"
+  },
+  {
+    "from": "Court Sq-23 St",
+    "to": "Lexington Av/53 St"
+  },
+  {
+    "from": "DeKalb Av",
+    "to": "Jefferson St"
+  },
+  {
+    "from": "50 St",
+    "to": "55 St"
+  },
+  {
+    "from": "18 St",
+    "to": "23 St"
+  },
+  {
+    "from": "71 St",
+    "to": "79 St"
+  },
+  {
+    "from": "Hoyt-Schermerhorn Sts",
+    "to": "Lafayette Av"
+  },
+  {
+    "from": "125 St",
+    "to": "149 St-Grand Concourse"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "8 St-NYU"
+  },
+  {
+    "from": "207 St",
+    "to": "Dyckman St"
+  },
+  {
+    "from": "168 St-Washington Hts",
+    "to": "181 St"
+  },
+  {
+    "from": "Castle Hill Av",
+    "to": "Parkchester"
+  },
+  {
+    "from": "Bronx Park East",
+    "to": "E 180 St"
+  },
+  {
+    "from": "DeKalb Av",
+    "to": "Myrtle-Wyckoff Avs"
+  },
+  {
+    "from": "Knickerbocker Av",
+    "to": "Myrtle-Wyckoff Avs"
+  },
+  {
+    "from": "49 St",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "Botanic Garden",
+    "to": "Prospect Park"
+  },
+  {
+    "from": "Grand Central-42 St",
+    "to": "Vernon Blvd-Jackson Av"
+  },
+  {
+    "from": "Brooklyn Bridge-City Hall",
+    "to": "Canal St"
+  },
+  {
+    "from": "69 St",
+    "to": "74 St-Broadway"
+  },
+  {
+    "from": "Clifton",
+    "to": "Stapleton"
+  },
+  {
+    "from": "33 St",
+    "to": "Grand Central-42 St"
+  },
+  {
+    "from": "Jackson Av",
+    "to": "Prospect Av"
+  },
+  {
+    "from": "59 St-Columbus Circle",
+    "to": "7 Av"
+  },
+  {
+    "from": "72 St",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "Beach 90 St",
+    "to": "Broad Channel"
+  },
+  {
+    "from": "183 St",
+    "to": "Fordham Rd"
+  },
+  {
+    "from": "Jamaica Center-Parsons/Archer",
+    "to": "Sutphin Blvd-Archer Av-JFK Airport"
+  },
+  {
+    "from": "238 St",
+    "to": "Van Cortlandt Park-242 St"
+  },
+  {
+    "from": "Euclid Av",
+    "to": "Grant Av"
+  },
+  {
+    "from": "59 St",
+    "to": "86 St"
+  },
+  {
+    "from": "20 Av",
+    "to": "Bay Pkwy"
+  },
+  {
+    "from": "125 St",
+    "to": "86 St"
+  },
+  {
+    "from": "14 St",
+    "to": "Chambers St"
+  },
+  {
+    "from": "9 Av",
+    "to": "Fort Hamilton Pkwy"
+  },
+  {
+    "from": "New Dorp",
+    "to": "St George"
+  },
+  {
+    "from": "Avenue M",
+    "to": "Kings Hwy"
+  },
+  {
+    "from": "Middletown Rd",
+    "to": "Westchester Sq-E Tremont Av"
+  },
+  {
+    "from": "Avenue U",
+    "to": "Avenue X"
+  },
+  {
+    "from": "103 St",
+    "to": "Cathedral Pkwy (110 St)"
+  },
+  {
+    "from": "145 St",
+    "to": "Harlem-148 St"
+  },
+  {
+    "from": "36 St",
+    "to": "9 Av"
+  },
+  {
+    "from": "Canal St",
+    "to": "Franklin St"
+  },
+  {
+    "from": "8 Av",
+    "to": "Fort Hamilton Pkwy"
+  },
+  {
+    "from": "14 St",
+    "to": "23 St"
+  },
+  {
+    "from": "Cleveland St",
+    "to": "Crescent St"
+  },
+  {
+    "from": "36 St",
+    "to": "Atlantic Av-Barclays Ctr"
+  },
+  {
+    "from": "57 St-7 Av",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "72 St",
+    "to": "Lexington Av/63 St"
+  },
+  {
+    "from": "Pleasant Plains",
+    "to": "Prince's Bay"
+  },
+  {
+    "from": "72 St",
+    "to": "81 St-Museum of Natural History"
+  },
+  {
+    "from": "Baychester Av",
+    "to": "Gun Hill Rd"
+  },
+  {
+    "from": "Halsey St",
+    "to": "Kosciuszko St"
+  },
+  {
+    "from": "Broadway-Lafayette St",
+    "to": "Grand St"
+  },
+  {
+    "from": "Atlantic Av-Barclays Ctr",
+    "to": "Canal St"
+  },
+  {
+    "from": "Bedford Park Blvd",
+    "to": "Kingsbridge Rd"
+  },
+  {
+    "from": "Briarwood",
+    "to": "Jamaica-Van Wyck"
+  },
+  {
+    "from": "Beach 60 St",
+    "to": "Beach 67 St"
+  },
+  {
+    "from": "49 St",
+    "to": "57 St-7 Av"
+  },
+  {
+    "from": "Great Kills",
+    "to": "St George"
+  },
+  {
+    "from": "36 St",
+    "to": "45 St"
+  },
+  {
+    "from": "Parkside Av",
+    "to": "Prospect Park"
+  },
+  {
+    "from": "DeKalb Av",
+    "to": "Jay St-MetroTech"
+  },
+  {
+    "from": "Clinton-Washington Avs",
+    "to": "Fulton St"
+  },
+  {
+    "from": "Atlantic Av-Barclays Ctr",
+    "to": "Franklin Av-Medgar Evers College"
+  },
+  {
+    "from": "18 Av",
+    "to": "20 Av"
+  },
+  {
+    "from": "Kingston-Throop Avs",
+    "to": "Nostrand Av"
+  },
+  {
+    "from": "Kingston-Throop Avs",
+    "to": "Utica Av"
+  },
+  {
+    "from": "Beverly Rd",
+    "to": "Church Av"
+  },
+  {
+    "from": "233 St",
+    "to": "Nereid Av"
+  },
+  {
+    "from": "Broadway Junction",
+    "to": "Bushwick Av-Aberdeen St"
+  },
+  {
+    "from": "E 180 St",
+    "to": "West Farms Sq-E Tremont Av"
+  },
+  {
+    "from": "5 Av/53 St",
+    "to": "Lexington Av/53 St"
+  },
+  {
+    "from": "57 St",
+    "to": "Lexington Av/63 St"
+  },
+  {
+    "from": "57 St-7 Av",
+    "to": "Lexington Av/63 St"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "Astor Pl"
+  },
+  {
+    "from": "Annadale",
+    "to": "Huguenot"
+  },
+  {
+    "from": "111 St",
+    "to": "Ozone Park-Lefferts Blvd"
+  },
+  {
+    "from": "174 St",
+    "to": "Freeman St"
+  },
+  {
+    "from": "Stapleton",
+    "to": "Tompkinsville"
+  },
+  {
+    "from": "163 St-Amsterdam Av",
+    "to": "168 St"
+  },
+  {
+    "from": "Forest Hills-71 Av",
+    "to": "Kew Gardens-Union Tpke"
+  },
+  {
+    "from": "Fulton St",
+    "to": "High St"
+  },
+  {
+    "from": "Broadway Junction",
+    "to": "Rockaway Av"
+  },
+  {
+    "from": "36 St",
+    "to": "Queens Plaza"
+  },
+  {
+    "from": "Botanic Garden",
+    "to": "Park Pl"
+  },
+  {
+    "from": "34 St-Penn Station",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "183 St",
+    "to": "Burnside Av"
+  },
+  {
+    "from": "Fulton St",
+    "to": "Wall St"
+  },
+  {
+    "from": "86 St",
+    "to": "Bay Ridge-95 St"
+  },
+  {
+    "from": "116 St-Columbia University",
+    "to": "125 St"
+  },
+  {
+    "from": "Rector St",
+    "to": "South Ferry"
+  },
+  {
+    "from": "Jackson Hts-Roosevelt Av",
+    "to": "Queens Plaza"
+  },
+  {
+    "from": "Franklin Av-Medgar Evers College",
+    "to": "Nostrand Av"
+  },
+  {
+    "from": "Dyckman St",
+    "to": "Inwood-207 St"
+  },
+  {
+    "from": "Avenue U",
+    "to": "Kings Hwy"
+  },
+  {
+    "from": "Cleveland St",
+    "to": "Van Siclen Av"
+  },
+  {
+    "from": "Church Av",
+    "to": "Fort Hamilton Pkwy"
+  },
+  {
+    "from": "111 St",
+    "to": "Woodhaven Blvd"
+  },
+  {
+    "from": "66 St-Lincoln Center",
+    "to": "72 St"
+  },
+  {
+    "from": "Bushwick Av-Aberdeen St",
+    "to": "Wilson Av"
+  },
+  {
+    "from": "25 St",
+    "to": "36 St"
+  },
+  {
+    "from": "110 St-Malcolm X Plaza",
+    "to": "116 St"
+  },
+  {
+    "from": "Canal St",
+    "to": "DeKalb Av"
+  },
+  {
+    "from": "Cortelyou Rd",
+    "to": "Newkirk Plaza"
+  },
+  {
+    "from": "174-175 Sts",
+    "to": "Tremont Av"
+  },
+  {
+    "from": "High St",
+    "to": "Jay St-MetroTech"
+  },
+  {
+    "from": "90 St-Elmhurst Av",
+    "to": "Junction Blvd"
+  },
+  {
+    "from": "42 St-Bryant Pk",
+    "to": "47-50 Sts-Rockefeller Ctr"
+  },
+  {
+    "from": "Eltingville",
+    "to": "Great Kills"
+  },
+  {
+    "from": "Chauncey St",
+    "to": "Gates Av"
+  },
+  {
+    "from": "Huguenot",
+    "to": "Prince's Bay"
+  },
+  {
+    "from": "4 Av-9 St",
+    "to": "7 Av"
+  },
+  {
+    "from": "Canal St",
+    "to": "W 4 St-Wash Sq"
+  },
+  {
+    "from": "125 St",
+    "to": "145 St"
+  },
+  {
+    "from": "Jamaica-179 St",
+    "to": "Parsons Blvd"
+  },
+  {
+    "from": "Bedford-Nostrand Avs",
+    "to": "Myrtle-Willoughby Avs"
+  },
+  {
+    "from": "170 St",
+    "to": "Mt Eden Av"
+  },
+  {
+    "from": "5 Av/53 St",
+    "to": "7 Av"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "Canal St"
+  },
+  {
+    "from": "Bedford Park Blvd",
+    "to": "Norwood-205 St"
+  },
+  {
+    "from": "80 St",
+    "to": "88 St"
+  },
+  {
+    "from": "Graham Av",
+    "to": "Lorimer St"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "23 St"
+  },
+  {
+    "from": "Intervale Av",
+    "to": "Prospect Av"
+  },
+  {
+    "from": "Westchester Sq-E Tremont Av",
+    "to": "Zerega Av"
+  },
+  {
+    "from": "103 St",
+    "to": "96 St"
+  },
+  {
+    "from": "Rector St",
+    "to": "Whitehall St-South Ferry"
+  },
+  {
+    "from": "Gates Av",
+    "to": "Halsey St"
+  },
+  {
+    "from": "14 St-Union Sq",
+    "to": "23 St-Baruch College"
+  },
+  {
+    "from": "Beach 67 St",
+    "to": "Broad Channel"
+  },
+  {
+    "from": "104 St",
+    "to": "111 St"
+  },
+  {
+    "from": "Avenue U",
+    "to": "Neck Rd"
+  },
+  {
+    "from": "67 Av",
+    "to": "Forest Hills-71 Av"
+  },
+  {
+    "from": "46 St",
+    "to": "Northern Blvd"
+  },
+  {
+    "from": "Bay Terrace",
+    "to": "Oakwood Heights"
+  },
+  {
+    "from": "190 St",
+    "to": "Dyckman St"
+  },
+  {
+    "from": "72 St",
+    "to": "86 St"
+  },
+  {
+    "from": "Flushing-Main St",
+    "to": "Mets-Willets Point"
+  },
+  {
+    "from": "Crescent St",
+    "to": "Norwood Av"
+  },
+  {
+    "from": "116 St",
+    "to": "Cathedral Pkwy (110 St)"
+  },
+  {
+    "from": "62 St",
+    "to": "71 St"
+  },
+  {
+    "from": "34 St-Hudson Yards",
+    "to": "Times Sq-42 St"
+  },
+  {
+    "from": "Grand St",
+    "to": "Montrose Av"
+  },
+  {
+    "from": "Broadway Junction",
+    "to": "Halsey St"
+  },
+  {
+    "from": "Crown Hts-Utica Av",
+    "to": "Franklin Av-Medgar Evers College"
+  },
+  {
+    "from": "Kings Hwy",
+    "to": "Sheepshead Bay"
+  },
+  {
+    "from": "Gates Av",
+    "to": "Myrtle Av"
+  },
+  {
+    "from": "125 St",
+    "to": "137 St-City College"
+  },
+  {
+    "from": "Jay St-MetroTech",
+    "to": "York St"
+  },
+  {
+    "from": "77 St",
+    "to": "Bay Ridge Av"
+  },
+  {
+    "from": "50 St",
+    "to": "Fort Hamilton Pkwy"
+  },
+  {
+    "from": "33 St-Rawson St",
+    "to": "Queensboro Plaza"
+  },
+  {
+    "from": "Mosholu Pkwy",
+    "to": "Woodlawn"
+  },
+  {
+    "from": "Halsey St",
+    "to": "Wilson Av"
+  },
+  {
+    "from": "82 St-Jackson Hts",
+    "to": "90 St-Elmhurst Av"
+  },
+  {
+    "from": "Briarwood",
+    "to": "Kew Gardens-Union Tpke"
+  },
+  {
+    "from": "E 143 St-St Mary's St",
+    "to": "E 149 St"
+  },
+  {
+    "from": "5 Av/59 St",
+    "to": "Lexington Av/59 St"
+  },
+  {
+    "from": "6 Av",
+    "to": "8 Av"
+  },
+  {
+    "from": "110 St",
+    "to": "116 St"
+  },
+  {
+    "from": "Broadway Junction",
+    "to": "Utica Av"
+  },
+  {
+    "from": "Dongan Hills",
+    "to": "Old Town"
+  },
+  {
+    "from": "191 St",
+    "to": "Dyckman St"
+  },
+  {
+    "from": "68 St-Hunter College",
+    "to": "77 St"
+  },
+  {
+    "from": "14 St",
+    "to": "34 St-Penn Station"
+  },
+  {
+    "from": "Church Av",
+    "to": "Prospect Park"
+  },
+  {
+    "from": "Avenue P",
+    "to": "Kings Hwy"
+  },
+  {
+    "from": "Saratoga Av",
+    "to": "Sutter Av-Rutland Rd"
+  },
+  {
+    "from": "75 Av",
+    "to": "Kew Gardens-Union Tpke"
+  }
+]
