@@ -14,9 +14,6 @@ var stations = [];
 var connections = [];
 var routeLine;
 
-// Create marker cluster
-var markers = L.markerClusterGroup();
-
 // Fetch stations
 fetch("stations.json")
   .then(res => res.json())
