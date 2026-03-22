@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>NYC Subway Map Project</title>
+    <meta charset="utf-8" />
+
+```
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+<style>
+    #map {
+        height: 90vh;
+        width: 100%;
+    }
+    body {
+        margin: 0;
+        font-family: Arial;
+    }
+    button {
+        padding: 10px;
+        margin: 10px;
+    }
+</style>
+```
+
+</head>
+<body>
+
+<h2 style="margin-left:10px;">NYC Subway Route Visualizer 🚇</h2>
+<button onclick="showRoute()">Show Sample Route</button>
+
+<div style="margin: 10px;">
+    <label for="start">Start Station:</label>
+    <select id="start">
+        <option value="">--Select--</option>
+    </select>
+
+    <label for="end">End Station:</label>
+    <select id="end">
+        <option value="">--Select--</option>
+    </select>
+
+    <button onclick="drawRoute()">Draw Route</button>
+</div>
+
+<div id="map"></div>
+
+<!-- Leaflet JS -->
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+// Initialize map centered on NYC
+var map = L.map('map').setView([40.7128, -74.0060], 12);
+
+// Add map tiles
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+}).addTo(map);
+
+// STATION MARKERS
+fetch("stations.json")
+  .then(response => response.json())
+  .then(data => {
+      data.forEach(station => {
+          L.marker([station.lat, station.lon])
+            .addTo(map)
+            .bindPopup(station.name);
+      });
+  });
+
+var startSelect = document.getElementById("start");
+var endSelect = document.getElementById("end");
+
+// Fetch stations from JSON
+fetch("stations.json")
+  .then(response => response.json())
+  .then(data => {
+      stations = data;
+
+      // Add markers and populate dropdowns
+      stations.forEach(station => {
+          // Add marker
+          L.marker([station.lat, station.lon])
+            .addTo(map)
+            .bindPopup(station.name);
+
+          // Add to start dropdown
+          var optionStart = document.createElement("option");
+          optionStart.value = station.name;
+          optionStart.text = station.name;
+          startSelect.add(optionStart);
+
+          // Add to end dropdown
+          var optionEnd = document.createElement("option");
+          optionEnd.value = station.name;
+          optionEnd.text = station.name;
+          endSelect.add(optionEnd);
+      });
+  })
+  .catch(err => console.error("Error loading stations:", err));
+
+var routeLine;
+
+// Function to draw route
+function showRoute() {
+    if (routeLine) {
+        map.removeLayer(routeLine);
+    }
+
+    routeLine = L.polyline(routeCoords, {
+        color: 'blue',
+        weight: 5
+    }).addTo(map);
+
+    map.fitBounds(routeLine.getBounds());
+}
+</script>
+
+</body>
+</html>
